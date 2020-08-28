@@ -12,3 +12,6 @@
 
 ## My GitHub Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=TheZihanGu&show_icons=true)
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZihanGu&layout=compact)](https://github.com/TheZihanGu)
